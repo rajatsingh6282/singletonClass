@@ -1,0 +1,2 @@
+# singletonClass
+SimpleProjectForSingleton
